@@ -38,7 +38,7 @@ pyjwt==2.9.0
     # via -r requirements.in
 python-dotenv==1.0.1
     # via uvicorn
-python-multipart==0.0.12
+python-multipart==0.0.18
     # via -r requirements.in
 python-pam==2.0.2
     # via -r requirements.in
